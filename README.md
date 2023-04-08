@@ -1,5 +1,5 @@
-![MasterHead](https://plopdo.com/wp-content/uploads/2021/07/Screenshot-1-1210x642.png?crop=1
-)
+[![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png
+)]
 <h1 align="center">Hi 👋, I'm Arunkumar Podhari</h1>
 <h3 align="center">A passionate frontend developer and web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
