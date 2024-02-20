@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/arunkum58696545" target="blank"><img src="https://img.shields.io/twitter/follow/arunkum58696545?logo=twitter&style=for-the-badge" alt="arunkum58696545" /></a> </p>
 
-- 🌱 I’m currently learning **Full-stack development with a specialization in 4.0 technologies.**
+- 🌱  **Full-stack development **
 
 - 👨‍💻 All of my projects are available at [https://myportfolioarun.ccbp.tech/](https://myportfolioarun.ccbp.tech/)
 
